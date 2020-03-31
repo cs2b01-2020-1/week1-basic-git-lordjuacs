@@ -1,1 +1,2 @@
-VimCrypt~01!ÜÚ¯w	AQ0Ùj¿'Û%’€\kìİëìb=tÄ:H³ŞşJ²Z8ê*tÿ;ô2j—Ú$nÎxÙg²k%ğ»"¦~¦ŠŠ¼ÎÓß
+for i in range(100):
+    print("Me debo lavar las manos por 20 segundos")
